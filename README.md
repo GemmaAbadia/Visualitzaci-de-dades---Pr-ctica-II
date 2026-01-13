@@ -1,2 +1,2 @@
-# Visualitzaci-de-dades---Pr-ctica-II
+# Visualització de dades Pràctica II
 Part II: projecte de visualització
